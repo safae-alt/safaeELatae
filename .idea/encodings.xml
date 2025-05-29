@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ProjetChariteV2-main/DonMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjetChariteV2-main/EurekaRegistreMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjetChariteV2-main/GetwayMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjetChariteV2-main/OrganisationMs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProjetChariteV2-main/UserMS/src/main/java" charset="UTF-8" />
+  </component>
+</project>
